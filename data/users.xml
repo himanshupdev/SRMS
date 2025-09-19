@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <username>admin</username>
+    <password>$2y$12$LE6WzwaGSKoR7.1CcH/uyO89K9xO57tS4kh2pRqUJKr5zFCZ7d1ey</password>
+    <role>admin</role>
+  </user>
+<user><id>2</id><username>96</username><password>$2y$12$e4TJk3wOk1YyE9ao8/KTee0fCn88BYYTA5Jx7qJQYGTyuKMfCCdUu</password><role>student</role></user><user><id>3</id><username>Himanshu</username><password>$2y$10$ZqWLjkc.VUewFXV2gu0vkupugUpFM0HLR2P8TSEkvolnKMcuBqVVy</password><role>student</role></user><user><id>4</id><username>himanshu</username><password>$2y$12$p0SagN2yc2Q1IDieDSFAwO/KyXep8Ma6H/Z2ikBT9aJBgJ3fyAhTy</password><role>student</role></user></users>
